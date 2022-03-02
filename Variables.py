@@ -12,22 +12,22 @@ age = 30
 print(age)
 age = 35
 print(age)
-age=age+5
+age = age+5
 print(age)
-color_of_eye="zöld"
+color_of_eye = "zöld"
 print(color_of_eye)
 color_of_eye_of_jon = color_of_eye + "kekes"
 print(color_of_eye_of_jon)
 print(type(age))
-age=age+3.14
+age = age+3.14
 print(age)
 print(type(age))
 age = "harminckettő"
 print(type(age))
 print(type("asd"))
 
-salary: int =200
+salary: int = 200
 print(salary)
-salary=salary+3.14
+salary = salary+3.14
 print(salary)
-
+print("Hello Git")
