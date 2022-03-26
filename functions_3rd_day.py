@@ -30,7 +30,7 @@ def print_square(width, height):            # Ezt még le kell kezelni 1-re és 
     print(full_row)
 
 
-print_square(1,5)
+print_square(4,3)
 
 # String ismétlése kétféleképpen
 def repeat_str(s: str, count: int) -> str:
